@@ -1,7 +1,7 @@
 app-id: com.github.rajsolai.textsnatcher
 
 runtime: io.elementary.Platform
-runtime-version: "6.1"
+runtime-version: "7.3"
 sdk: io.elementary.Sdk
 command: com.github.rajsolai.textsnatcher
 
